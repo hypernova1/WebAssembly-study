@@ -101,7 +101,7 @@ $ npm install
 ### `www`에서 로컬 `wasm-game-of-life` 패키지 사용
 * `hello-wasm-pack` 패키지를 사용하는 대신 `wasm-game-of-life` 사용
 1. `www/package.json` 수정
-    ~~~json
+    ~~~
     {
       // ...
       "dependencies": {                     // Add this three lines block!
